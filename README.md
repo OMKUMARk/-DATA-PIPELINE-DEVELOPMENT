@@ -50,4 +50,7 @@ This task gave me hands-on experience with essential data preprocessing techniqu
 
 By the end of the task, I had a fully automated and repeatable ETL pipeline, complete with input and output files, visual plots, and a structured codebase ready to be pushed to GitHub.
 
-*THANK YOU*
+*OUTPUT*
+
+<img width="1195" height="796" alt="Image" src="https://github.com/user-attachments/assets/ffb3802a-19b0-4eed-86d3-19155a2f0aa4" />
+
